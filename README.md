@@ -1,2 +1,2 @@
-# yalwolf.github.io
+# 游戏站点
 Web
