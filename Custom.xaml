@@ -192,8 +192,6 @@
         <local:MyListItem Margin="-5,15,-5,0" 
 		                  Logo="https://www.baidu.com/favicon.ico" Title="百度" Info="百度一下，你就知道！" 
 		                  EventType="打开网页" EventData="https://www.baidu.com/" Type="Clickable" />
-        <local:MyListItem Margin="-5,0,-5,8"
-		                  EventType="打开帮助" EventData="PCL/help.json" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
